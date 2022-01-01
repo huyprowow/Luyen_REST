@@ -1,0 +1,65 @@
+table {
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+th,
+td {
+  padding: 10px;
+}
+.on {
+  color: green;
+}
+.off {
+  color: red;
+}
+.round {
+  border-radius: 50%;
+}
+.btn-edit {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+.btn-delete {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  position: relative;
+  left: 90%;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+}
+form{
+  display:grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+fieldset{
+  grid-row-start: 1;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+h1{
+  text-align: center;
+}
