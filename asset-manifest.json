@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Luyen_REST/static/css/main.b3304b24.css",
+    "main.js": "/Luyen_REST/static/js/main.8208299b.js",
+    "index.html": "/Luyen_REST/index.html",
+    "main.b3304b24.css.map": "/Luyen_REST/static/css/main.b3304b24.css.map",
+    "main.8208299b.js.map": "/Luyen_REST/static/js/main.8208299b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3304b24.css",
+    "static/js/main.8208299b.js"
+  ]
+}
